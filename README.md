@@ -4,7 +4,7 @@ Projet étudiant Jeu d'echec (Premier projet)
 
 ## Prérequis
 
-Python
+Python3
 
 ## Compilation
 
